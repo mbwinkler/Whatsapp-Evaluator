@@ -187,6 +187,7 @@ class Chat:
             title of the resulting plot
         xlim : tuple
             X-Axis Datetime Limits for the Plot
+            e.g. ('2017-01-01 00:00:00', '2022-12-31 23:59:59')
         speaker_order : List
             Order in which the Participants are to be depicted
 
@@ -289,6 +290,7 @@ class Chat:
             title of the resulting plot
         xlim : tuple
             X-Axis Datetime Limits for the Plot
+            e.g. ('2017-01-01 00:00:00', '2022-12-31 23:59:59')
         speaker_order : List
             Order in which the Participants are to be depicted
 
