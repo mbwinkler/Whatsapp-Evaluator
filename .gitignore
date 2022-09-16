@@ -8,3 +8,5 @@ Output/
 .idea/
 
 Auswertung.ipynb
+
+src/__pycache__/
